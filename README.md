@@ -107,6 +107,7 @@ posts = [
         'content': 'This is my third blog'
     }
 ]
+```
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
